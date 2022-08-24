@@ -1,0 +1,5 @@
+src/internal.o
+Documentation/foo.html
+Documentation/gitignore.html
+file.o
+lib.a
